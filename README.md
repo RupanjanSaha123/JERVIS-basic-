@@ -46,11 +46,11 @@ Make sure you have Python 3.6 or newer installed on your system.
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/RupanjanSaha123/JERVIS(basic).git
 
 Navigate to the project directory:
 
-cd YOUR_REPOSITORY_NAME
+cd JERVIS(basic)
 
 Install the required Python libraries using pip:
 
@@ -89,7 +89,5 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📜 License
-This project is distributed under the MIT License. See LICENSE for more information.
 
 Made with ❤️ by Rupanjan Saha.
